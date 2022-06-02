@@ -8,7 +8,7 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creator = "@ItsMeVinz"
+var creator = "@jayaganz"
 var ytdl = require('ytdl-core');
 var ytpl = require('ytpl');
 var secure = require('ssl-express-www');
@@ -144,7 +144,7 @@ loghandler = {
     }
 }
 
-const listkey = ["Vinza", "vinz"];
+const listkey = ["hurvy", "trial", "jayagans"];
 //router.use(favicon(__path + "/views/logo.ico"));
 
 var len = 15
